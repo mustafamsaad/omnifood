@@ -2,7 +2,7 @@
 
 <h2 align='center'> A responsive webpage with  HTML and CSS in addition to some JavaSript </h2>
 
-<h3 align='center'><a href='https://omnifood-mustafamsaad.vercel.app/' target='_blank' rel="noopener noreferrer">Live Demo</a></h3>
+<h3 align='center'><a href='https://omnifood-mustafamsaad.vercel.app/'>Live Demo</a></h3>
 
 #### About the project: 
 * A Real-world project is made with modern, semantic HTML5 and CSS3 by using Flex-Box and CSS-Grid layouts. 
