@@ -16,15 +16,6 @@ Omnifood is a responsive website for a fictional food delivery service, designed
 - **HTML5:** For structuring the website content.
 - **CSS3:** For styling, including flexbox and media queries for responsiveness.
 
-## Project Structure
-
-omnifood/
-├── index.html # Main HTML file
-├── css/
-│ └── style.css # Main CSS file for styling
-├── img/ # Images used in the website (e.g., meal photos, logo)
-└── README.md # Project documentation
-
 ## How to Run the Project
 
 1. **Clone the Repository:**
@@ -40,15 +31,9 @@ omnifood/
 
 This project was created to demonstrate my front-end development skills, focusing on building responsive and visually appealing websites using HTML and CSS. It showcases my ability to create clean, semantic code and implement modern design practices suitable for a food service platform.
 
-## Future Improvements
-
-- Add interactivity with JavaScript (e.g., form validation, dynamic meal suggestions).
-- Integrate a backend to handle real food orders.
-- Enhance accessibility with ARIA landmarks and keyboard navigation.
-
 ## Contact
 
 Feel free to reach out to me for any questions or opportunities:
 
 - GitHub: [mustafamsaad](https://github.com/mustafamsaad)
-- Email: your-email@example.com
+- Email: mostafamoh724@gmail.com
